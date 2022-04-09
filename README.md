@@ -1,18 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nerd-Lee&fontSize=90&animation=fadeIn&fontAlignY=40&desc=I'm%20Web%20Developer!&descAlignY=55&descAlign=62)
 
-<center>
+<div align=center>
+
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNerd-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/>
 </a>
-</center>
 <br><br>
 
-<center>
 <h5>🛠️ Tech Stack 🛠️</h5>
 <h4>👨‍💻 Currently in use</h4>
-</center>
 
-<center>
+
 <div style="margin-top:10px; margin-bottom: 5px;">
     <img
         src="https://img.shields.io/badge/JAVA-0C83BD?style=flat-square&logo=JAVA&logoColor=white"
@@ -31,9 +29,8 @@
         style="margin-right: 2px;"
     />
 </div>
-</center>
 
-<center>
+
 <div style="margin-top:10px; margin-bottom: 5px;">
     <img
         src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white"
@@ -52,15 +49,12 @@
         style="margin-right: 2px;"
     />
 </div>
-</center>
 
 ---
 
-<center>
 <h4>🙋‍♂️ With experience</h4>
-</center>
 
-<center>
+
 <div style="margin-top:10px; margin-bottom: 5px;">
     <img
         src="https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=GITHUB&logoColor=white"
@@ -78,10 +72,12 @@
         src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=JAVASCRIPT&logoColor=white"
         style="margin-right: 2px;"
     />
+    <img
+        src="https://img.shields.io/badge/SCSS-white?style=flat-square&logo=SASS&logoColor="
+        style="margin-right: 2px;"
+    />
 </div>
-</center>
 
-<center>
 <div style="margin-top:10px; margin-bottom: 5px;">
     <img
         src="https://img.shields.io/badge/REACT.JS-3766AB?style=flat-square&logo=REACT&logoColor=white"
@@ -99,10 +95,13 @@
         src="https://img.shields.io/badge/NODE.JS-87bf00?style=flat-square&logo=NODE.JS&logoColor=black"
         style="margin-right: 2px;"
     />
+    <img
+        src="https://img.shields.io/badge/STYLED COMPONENTS-white?style=flat-square&logo=styled-components&logoColor="
+        style="margin-right: 2px;"
+    />
 </div>
-</center>
 
-<center>
+
 <div style="margin-top:10px; margin-bottom: 5px;">
     <img
         src="https://img.shields.io/badge/UNITY3D-white?style=flat-square&logo=UNITY&logoColor=black"
@@ -113,10 +112,10 @@
         style="margin-right: 2px;"
     />
 </div>
-</center>
 
 ---
 
-<br><br><br><center>
+<br><br><br>
 ![Nerd-Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerd-Lee&show_icons=true&theme=merko)
-</center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerd-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
