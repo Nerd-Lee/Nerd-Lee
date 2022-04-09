@@ -72,10 +72,6 @@
         src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=JAVASCRIPT&logoColor=white"
         style="margin-right: 2px;"
     />
-    <img
-        src="https://img.shields.io/badge/SCSS-white?style=flat-square&logo=SASS&logoColor="
-        style="margin-right: 2px;"
-    />
 </div>
 
 <div style="margin-top:10px; margin-bottom: 5px;">
@@ -95,14 +91,18 @@
         src="https://img.shields.io/badge/NODE.JS-87bf00?style=flat-square&logo=NODE.JS&logoColor=black"
         style="margin-right: 2px;"
     />
-    <img
-        src="https://img.shields.io/badge/STYLED COMPONENTS-white?style=flat-square&logo=styled-components&logoColor="
-        style="margin-right: 2px;"
-    />
 </div>
 
 
 <div style="margin-top:10px; margin-bottom: 5px;">
+    <img
+        src="https://img.shields.io/badge/STYLED COMPONENTS-white?style=flat-square&logo=styled-components&logoColor="
+        style="margin-right: 2px;"
+    />
+    <img
+        src="https://img.shields.io/badge/SCSS-white?style=flat-square&logo=SASS&logoColor="
+        style="margin-right: 2px;"
+    />
     <img
         src="https://img.shields.io/badge/UNITY3D-white?style=flat-square&logo=UNITY&logoColor=black"
         style="margin-right: 2px;"
